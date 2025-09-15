@@ -8,7 +8,7 @@ require (
 	github.com/cosmos/ics23/go v0.11.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/eatonphil/gosqlite v0.10.1-0.20250409163211-9c47979bc5b1
-	github.com/emicklei/dot v1.8.0
+	github.com/emicklei/dot v1.9.1
 	github.com/klauspost/compress v1.18.0
 	github.com/kocubinski/costor-api v1.1.2
 	github.com/stretchr/testify v1.10.0
