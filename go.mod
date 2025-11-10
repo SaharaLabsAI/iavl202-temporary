@@ -1,6 +1,6 @@
 module github.com/sahara/iavl
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/aybabtme/uniplot v0.0.0-20151203143629-039c559e5e7e
@@ -13,7 +13,7 @@ require (
 	github.com/kocubinski/costor-api v1.1.2
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/sync v0.7.0
+	golang.org/x/sync v0.18.0
 	golang.org/x/sys v0.31.0
 )
 
